@@ -1,0 +1,13 @@
+OpnTmms1_OpnTmms1 300.000000
+OpnTmms2_OpnTmms2 200.000000
+OpnTmms3_OpnTmms3 30.000000
+ClsTmms1_ClsTmms1 250.000000
+ClsTmms2_ClsTmms2 170.000000
+ClsTmms3_ClsTmms3 60.000000
+ClsTmms4_ClsTmms4 10.000000
+FailTmms_FailTmms 350.000000
+BlkTmms1_BlkTmms1 700.000000
+BlkTmms2_BlkTmms2 800.000000
+FctMod1_FctMod1 1.000000
+FctMod2_FctMod2 1.000000
+FctMod3_FctMod3 1.000000

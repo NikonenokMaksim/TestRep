@@ -1,0 +1,153 @@
+<!--Signals set configurations file for WinBres. Author: Efimov E.B., all rights reserved.
+!!! AUTOMATICALLY GENERATED FILE. DO NOT MODIFY !!!-->
+<SignalsSet Guid="1A63F993-5E21-43da-97BF-DEB499716545">
+  <LastConfigView>
+    <Window>
+      <Signal Guid="13ce763f-513a-40ac-9d1c-61d323a5b157" />
+    </Window>
+    <Window>
+      <Signal Guid="ebae5f3f-20cb-4518-8409-965ba48679ce" />
+    </Window>
+    <Window>
+      <Signal Guid="fda2d305-8ee0-4179-af51-36a9a449806c" />
+    </Window>
+    <Window>
+      <Signal Guid="6f7e5b41-5c63-46d6-ae10-99cb2ccac8bd" />
+    </Window>
+    <Window>
+      <Signal Guid="4e498bd4-ce87-4f4d-99bb-10d8e9537d72" />
+    </Window>
+    <Window>
+      <Signal Guid="76772645-9c6d-40d6-b7b0-fd5b616ede8f" />
+    </Window>
+    <Window>
+      <Signal Guid="2ad3953e-be49-46a2-8cf5-bfb9e4daa64d" />
+    </Window>
+    <Window>
+      <Signal Guid="a0401227-0265-441a-b00a-f47850e85123" />
+    </Window>
+    <Window>
+      <Signal Guid="3b0c2b66-a9ba-4a6a-b918-5b2ce309bcbf" />
+    </Window>
+    <Window>
+      <Signal Guid="5d242aa1-784c-4a02-8a6b-eeb89631ee0a" />
+    </Window>
+    <Window>
+      <Signal Guid="be5af392-7d70-4351-8f25-da9a5b24803b" />
+    </Window>
+    <Window>
+      <Signal Guid="31b9aa29-1d97-4afb-b8b5-93eb686ea8a0" />
+    </Window>
+    <Window>
+      <Signal Guid="ebd7ff57-1283-4c6f-87d9-7c84b6ea5798" />
+    </Window>
+    <Window>
+      <Signal Guid="9ade344d-6022-40c3-8fe4-7f3ae7f3b989" />
+    </Window>
+    <Window>
+      <Signal Guid="b7cf990a-2e7f-46c0-bf3f-3a0986400e94" />
+    </Window>
+    <Window>
+      <Signal Guid="28345872-b553-41f5-a399-17c97ee858f7" />
+    </Window>
+    <Window>
+      <Signal Guid="98c3885a-3cc8-4923-bb8d-8d8818f14ed7" />
+    </Window>
+    <Window>
+      <Signal Guid="0006a78c-fc4b-460e-883b-9a9f6ae3b580" />
+    </Window>
+    <Window>
+      <Signal Guid="c8e9aaaf-8663-4907-959b-5ae117712d77" />
+    </Window>
+    <Window>
+      <Signal Guid="ae8da889-66c7-4d56-926c-5a33f741a632" />
+    </Window>
+    <Window>
+      <Signal Guid="baf78ef2-8097-4789-bd2f-96ac2526e6ee" />
+    </Window>
+    <Window>
+      <Signal Guid="9f371761-652e-45f0-8138-09d25ee0a1e7" />
+    </Window>
+    <Window>
+      <Signal Guid="d6509dbc-3700-41d3-ab1e-73786a1af108" />
+    </Window>
+    <Window>
+      <Signal Guid="f31b73f0-7a77-431d-86fc-948bd669cbbe" />
+    </Window>
+    <Window>
+      <Signal Guid="e4f7d4c7-5ad1-4060-b04a-78edcd710fef" />
+    </Window>
+    <Window>
+      <Signal Guid="9d93bd45-c13c-4e79-a224-1897f0a6bc88" />
+    </Window>
+    <Window>
+      <Signal Guid="3cba2026-b843-4ba0-98fe-12eef97ef45f" />
+    </Window>
+    <Window>
+      <Signal Guid="1714324c-b827-4266-a774-b15efb408446" />
+    </Window>
+    <Window>
+      <Signal Guid="54586f1c-087b-41c5-b6e6-ddd60dbaa192" />
+    </Window>
+    <Window>
+      <Signal Guid="30fa7d5c-11f8-4334-88f5-ee77b635adca" />
+    </Window>
+    <Window>
+      <Signal Guid="79629b02-36e1-4ab9-8b42-57b79012fbb4" />
+    </Window>
+    <Window>
+      <Signal Guid="c231cf05-c253-426d-bfad-69dc5065080d" />
+    </Window>
+    <Window>
+      <Signal Guid="8dee7d27-2324-4a9b-b9ef-9a885067e271" />
+    </Window>
+    <Window>
+      <Signal Guid="83a3e40d-7ddc-4a83-93cb-16e64403327b" />
+    </Window>
+    <Window>
+      <Signal Guid="ea706441-a072-4eff-b431-957b42962d6d" />
+    </Window>
+    <Window>
+      <Signal Guid="637c9006-8096-4e8f-bf9a-e7f0d9fbb1b4" />
+    </Window>
+    <Window>
+      <Signal Guid="ee095dac-ea60-4ad8-bc97-61ac325c26e3" />
+    </Window>
+    <Window>
+      <Signal Guid="965a3293-3090-463b-801c-6cf20dafd7bf" />
+    </Window>
+    <Window>
+      <Signal Guid="9026ba86-d58a-4f48-8e55-5b11c3b4cc7b" />
+    </Window>
+    <Window>
+      <Signal Guid="6aaed2ed-b891-4ad6-92ba-aa5798f267a7" />
+    </Window>
+    <Window>
+      <Signal Guid="b6a6e8cb-92ae-4b54-b409-0ee8c8c48e22" />
+    </Window>
+    <Window>
+      <Signal Guid="06cbd107-3254-46e1-bb1c-3d97a711efd2" />
+    </Window>
+    <Window>
+      <Signal Guid="7b809cb6-9074-4f44-b170-e9642c1deee1" />
+    </Window>
+    <Window>
+      <Signal Guid="8541b027-22ac-44e3-8f91-61b1caee7c76" />
+    </Window>
+    <Window>
+      <Signal Guid="a409933c-e525-4382-927a-2158a4eacb2d" />
+    </Window>
+    <Window>
+      <Signal Guid="706ced20-033c-4b9b-9cb3-f69bd09a5cf8" />
+    </Window>
+    <Window>
+      <Signal Guid="1cfc9301-ce2a-4107-9392-96a24976e85c" />
+    </Window>
+    <Window>
+      <Signal Guid="ac621bff-c768-4c91-a20b-f492d895c56a" />
+    </Window>
+    <Window>
+      <Signal Guid="50b55414-a501-493e-a564-714e3fff532f" />
+    </Window>
+  </LastConfigView>
+</SignalsSet>
