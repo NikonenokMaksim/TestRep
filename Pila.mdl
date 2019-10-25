@@ -6,7 +6,7 @@ Model {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "1.907"
+    ComputedModelVersion    "1.908"
     NumModelReferences	    0
     NumTestPointedSignals   0
     NumProvidedFunctions    0
@@ -19,13 +19,7 @@ Model {
     IsArchitectureModel	    0
     IsAUTOSARArchitectureModel 0
     NumParameterArguments   0
-    NumExternalFileReferences 2
-    ExternalFileReference {
-      Reference		      "simulink/Sources/Chirp Signal"
-      Path		      "Pila/Chirp Signal"
-      SID		      "60963"
-      Type		      "LIBRARY_BLOCK"
-    }
+    NumExternalFileReferences 1
     ExternalFileReference {
       Reference		      "simulink/Sources/Repeating\nSequence"
       Path		      "Pila/Repeating Sequence"
@@ -73,7 +67,7 @@ Model {
 	DockPosition		"Left"
 	Width			[50]
 	Height			[50]
-	Filter			[8]
+	Filter			[9]
 	Minimized		"Unset"
       }
       Object {
@@ -122,7 +116,7 @@ Model {
       }
       WindowUuid	      "7b74b6bf-0ef5-42c8-9652-96420ce2ce32"
     }
-    BDUuid		    ""
+    BDUuid		    "0b7cc02a-6cb1-4f8a-9142-9ba6417fc9b9"
   }
   HideAutomaticNames	  on
   PhysicalModelingChecksum "3890715340"
@@ -134,9 +128,9 @@ Model {
   ModifiedByFormat	  "%<Auto>"
   LastModifiedBy	  "schukin"
   ModifiedDateFormat	  "%<Auto>"
-  LastModifiedDate	  "Fri Oct 25 17:46:24 2019"
-  RTWModifiedTimeStamp	  493926380
-  ModelVersionFormat	  "1.%<AutoIncrement:907>"
+  LastModifiedDate	  "Fri Oct 25 18:00:28 2019"
+  RTWModifiedTimeStamp	  493927215
+  ModelVersionFormat	  "1.%<AutoIncrement:908>"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
   LibraryLinkDisplay	  "disabled"
@@ -1242,24 +1236,6 @@ Model {
     SIDHighWatermark	    "60966"
     SimulinkSubDomain	    "Simulink"
     Block {
-      BlockType		      Reference
-      Name		      "Chirp Signal"
-      SID		      "60963"
-      Ports		      [0, 1]
-      Position		      [935, 385, 965, 415]
-      ZOrder		      -3
-      LibraryVersion	      "1.453"
-      SourceBlock	      "simulink/Sources/Chirp Signal"
-      SourceType	      "chirp"
-      SourceProductName	      "Simulink"
-      SourceProductBaseCode   "SL"
-      ContentPreviewEnabled   off
-      f1		      "0.1"
-      T			      "100"
-      f2		      "1"
-      VectorParams1D	      on
-    }
-    Block {
       BlockType		      Constant
       Name		      "Constant"
       SID		      "60957"
@@ -1800,17 +1776,25 @@ Model {
       Branch {
 	ZOrder			11
 	Labels			[1, 0]
-	Points			[0, 315]
+	Points			[0, 184]
 	Branch {
-	  ZOrder		  5
-	  DstBlock		  "RDRE1"
-	  DstPort		  1
+	  ZOrder		  20
+	  Points		  [-174, 0; 0, -6]
 	}
 	Branch {
-	  ZOrder		  6
-	  Points		  [0, 45]
-	  DstBlock		  "RDRE1"
-	  DstPort		  2
+	  ZOrder		  19
+	  Points		  [0, 131]
+	  Branch {
+	    ZOrder		    5
+	    DstBlock		    "RDRE1"
+	    DstPort		    1
+	  }
+	  Branch {
+	    ZOrder		    6
+	    Points		    [0, 45]
+	    DstBlock		    "RDRE1"
+	    DstPort		    2
+	  }
 	}
       }
       Branch {
